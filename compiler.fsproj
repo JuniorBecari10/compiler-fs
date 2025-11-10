@@ -8,7 +8,9 @@
   <ItemGroup>
     <Compile Include="Diagnostic.fs" />
     <Compile Include="Token.fs" />
+    <Compile Include="Ast.fs" />
     <Compile Include="Lexer.fs" />
+    <Compile Include="Parser.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
